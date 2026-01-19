@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ellenrms)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ellenrms)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[email protected])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 </div>
 
@@ -16,7 +16,7 @@
 
 > *"Uma Velha... Nova Aluna de ADS Fatec"*
 
-Sou desenvolvedora apaixonada por **Inteligência Artificial** e **Backend Java**, focada em criar soluções escaláveis e inteligentes que transformam negócios. Combinando a robustez do ecossistema Java com o poder da IA moderna, desenvolvo sistemas que não apenas funcionam, mas evoluem.
+Sou desenvolvedora (em formação) apaixonada por **Inteligência Artificial** e **Backend Java**, focada em criar soluções escaláveis e inteligentes que transformam negócios. Combinando a robustez do ecossistema Java com o poder da IA moderna, desenvolvo sistemas que não apenas funcionam, mas evoluem.
 
 ```java
 public class EllenMateus {
@@ -37,7 +37,7 @@ public class EllenMateus {
 
 ---
 
-## 💼 Expertise Técnica
+## 💼 Expertise Técnica - em formação -
 
 ### 🎯 Backend & Arquitetura
 ```yaml
@@ -167,9 +167,9 @@ Mensageria & Streaming:
 
 ## 🎓 Formação & Aprendizado Contínuo
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** - FATEC
-- 📚 Estudante de **Compass UOL**
-- 🤖 Especialização em **IA e Machine Learning**
+- 🎓 **Análise e Desenvolvimento de Sistemas** - FATEC - finalizando em 2026
+- 📚 Estagiarita na **Compass UOL** em 2023
+- 🤖 Especialização em **IA e Machine Learning** - em andamento
 - ☕ Certificações em **Java e Spring Framework**
 
 ---
@@ -204,7 +204,7 @@ class DevelopmentPhilosophy:
 Estou sempre aberta a discutir projetos inovadores, oportunidades de colaboração ou simplesmente trocar ideias sobre tecnologia!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ellenrms)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[email protected])
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ellenrms)
 
 ---
